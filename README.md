@@ -140,6 +140,21 @@ This page allows users to move from a high-level business view to the underlying
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](images/overview_ejecutivo.jpg)
+
+### Detail / Drill-through
+
+![Commercial Analysis](images/detalle_drillthrough.jpg)
+
+### Product Detail
+![Customer Cohort Analysis](images/detalle_producto.jpg)
+
+---
+
 ## Data Preparation
 
 The datasets were cleaned and validated before the analysis and dashboard development.
